@@ -154,11 +154,11 @@ This architecture is optimized for **low-cost operation**:
 ---
 
 ## 📁 Project Structure
-/website
-├── index.html
-├── styles.css
-└── assets/
-README.md
+- /website
+- ├── index.html
+- ├── styles.css
+- └── assets/
+- README.md
 
 
 ---
